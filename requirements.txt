@@ -1,0 +1,8 @@
+- Python 3.x
+- Libraries:
+	1)pandas
+	2)numpy
+	3)scikit-learn
+	4)matplotlib
+	5)seaborn
+	6)imbalanced-learn
